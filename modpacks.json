@@ -10,7 +10,7 @@
     {
       "name": "Tech RPG",
       "type": "tech_rpg",
-      "img": "https://github.com/Makar986/CrackPrograms/blob/main/rivcraft_tech_rpg.png?raw=true",
+      "img": "https://github.com/Makar986/CrackPrograms/blob/main/rivcraft_tech_rpg.png",
       "short_desc": "Технологии и приключения",
       "description": "Продвинутая сборка с техническими модами (Industrial Craft, BuildCraft, Applied Energistics) и RPG элементами. Добавляет систему прокачки, квесты, новые биомы и измерения. Для опытных игроков, любящих автоматизацию и исследования."
     },
@@ -24,5 +24,6 @@
   ]
 
 }
+
 
 
