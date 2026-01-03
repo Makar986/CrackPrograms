@@ -1,0 +1,25 @@
+{
+  "modpacks": [
+    {
+      "name": "Default",
+      "type": "default",
+      "img": "https://multi-launcher.rf.gd/rivcraft_default.png",
+      "short_desc": "Стандартная сборка",
+      "description": "Классическая сборка Rivcraft с базовыми модами для комфортной игры. Включает оптимизацию, миникарту, улучшенный инвентарь и декоративные блоки. Идеально подходит для начинающих игроков."
+    },
+    {
+      "name": "Tech RPG",
+      "type": "tech_rpg",
+      "img": "https://multi-launcher.rf.gd/rivcraft_tech_rpg.png",
+      "short_desc": "Технологии и приключения",
+      "description": "Продвинутая сборка с техническими модами (Industrial Craft, BuildCraft, Applied Energistics) и RPG элементами. Добавляет систему прокачки, квесты, новые биомы и измерения. Для опытных игроков, любящих автоматизацию и исследования."
+    },
+    {
+      "name": "Vanilla",
+      "type": "vanilla",
+      "img": "https://multi-launcher.rf.gd/rivcraft_vanilla.png",
+      "short_desc": "Чистый Minecraft",
+      "description": "Ванильный Minecraft без модов, только с оптимизацией производительности. Для тех, кто ценит оригинальный игровой опыт и хочет играть на чистом клиенте без дополнений."
+    }
+  ]
+}
