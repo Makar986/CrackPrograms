@@ -10,20 +10,21 @@
     {
       "name": "Tech RPG",
       "type": "tech_rpg",
-      "img": "https://github.com/Makar986/CrackPrograms/blob/main/rivcraft-tech-rpg.png",
+      "img": "https://i.postimg.cc/y6hfSLkw/rivcraft-tech-rpg.png",
       "short_desc": "Технологии и приключения",
       "description": "Продвинутая сборка с техническими модами (Industrial Craft, BuildCraft, Applied Energistics) и RPG элементами. Добавляет систему прокачки, квесты, новые биомы и измерения. Для опытных игроков, любящих автоматизацию и исследования."
     },
     {
       "name": "Vanilla",
       "type": "vanilla",
-      "img": "https://github.com/Makar986/CrackPrograms/blob/main/rivcraft-vanilla.png",
+      "img": "https://i.postimg.cc/9QcH74m9/rivcraft-vanilla.png",
       "short_desc": "Чистый Minecraft",
       "description": "Ванильный Minecraft без модов, только с оптимизацией производительности. Для тех, кто ценит оригинальный игровой опыт и хочет играть на чистом клиенте без дополнений."
     }
   ]
 
 }
+
 
 
 
