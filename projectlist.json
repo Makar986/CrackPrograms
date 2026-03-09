@@ -2,17 +2,17 @@
   "list": [
     {
       "name": "Project Reality",
-      "img": "https://i.postimg.cc/y6hfSLkw/rivcraft-tech-rpg.png",
-      "short_desc": "Клутой проект",
-      "description": "Мега клутой проект",
+      "img": "https://i.postimg.cc/pVBvKhry/PR.png",
+      "short_desc": "Рив крут",
+      "description": "Проект в разработке, discord.gg/P4UCcdDG9J",
       "download": "https://www.dropbox.com/scl/fi/pifov965dhto1vt0352mt/pr.exe?rlkey=v4z1hi3q5ukihzj44nxp41vu9&st=7jdr35ib&dl=1",
       "java": "jdk-17.0.12"
     },
     {
       "name": "RivCraft",
       "img": "https://github.com/Makar986/CrackPrograms/blob/main/rivcraft_default.png?raw=true",
-      "short_desc": "Не крутой проект",
-      "description": "Мега не крутой проект, Прожект Реалити лучше",
+      "short_desc": "Реалити крутой",
+      "description": "Тот самый легендарный сервак от Вадима (Вадим спился)",
       "download": "https://www.dropbox.com/scl/fi/5akadoziq9pytfvmi32yx/riv_launcher.exe?rlkey=2wcp1g8b6csefumf5v14nfexc&st=5gfn7nh9&dl=1",
       "java": "jdk-17.0.12"
     }
